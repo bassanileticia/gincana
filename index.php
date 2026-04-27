@@ -6,6 +6,9 @@
     <title>Gincana - Senai</title>
 </head>
 <body>
+
+<img src="img/logo_sesi.png" alt="">
+
     <h1>Gincana esportiva SENAI</h1>
     
     <p>A Gincana Esportiva do SENAI é um evento que reúne as turmas do <strong>9º Ano, 1º EM, 2º EM e 3º EM</strong> em uma competição cheia de trabalho em equipe e espírito esportivo.</p>
