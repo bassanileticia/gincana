@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gincana - Senai</title>
+     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -75,8 +76,10 @@
 
 <p>Utilize as opções abaixo para cadastrar resultados e acompanhar a classificação das turmas:</p>
 
+<div class="botoes" >
 <a href="cadastrar_jogo.php">Cadastrar jogo</a><br><br>
 <a href="classificacao.php">Ver Classificação</a>
+</div>
 
 <footer>
     <p>&copy; - 2026 - Site desenvolvido como projeto escolar.<p>
