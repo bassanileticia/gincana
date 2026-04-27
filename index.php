@@ -72,7 +72,7 @@
 
 <p>Utilize as opções abaixo para cadastrar resultados e acompanhar a classificação das turmas:</p>
 
-<a href="cadastrar_jogo.php">Cadastrar Resultado</a><br><br>
+<a href="cadastrar_jogo.php">Cadastrar jogo</a><br><br>
 <a href="classificacao.php">Ver Classificação</a>
 
 <footer>

@@ -75,7 +75,7 @@ if (file_exists($arquivo)) {
 </table>
 
 <br>
-<a href="index.php">Voltar</a><br>
+<a href="index.php">Voltar a pagina inicial</a><br>
 <a href="cadastrar_jogo.php">Cadastrar jogo</a>
 
 </body>

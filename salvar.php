@@ -45,7 +45,7 @@ fclose($fp);
 
 <a href="cadastrar_jogo.php">Cadastrar outro jogo</a><br><br>
 <a href="classificacao.php">Ver classificação</a><br><br>
-<a href="index.php">Voltar para o início</a>
+<a href="index.php">Voltar para pagina inicial</a>
 
 
 </body>
