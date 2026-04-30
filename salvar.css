@@ -11,6 +11,7 @@ body {
     color: #333;
     padding: 20px;
     text-align: center;
+    overflow-x: hidden;
 }
 
 .logo {
@@ -35,7 +36,7 @@ h1 {
 
 p {
     margin: 10px auto;
-    color: #555;
+    color: #fffdfd;
 }
 
 .botoes {
@@ -59,4 +60,19 @@ p {
 .botoes a:hover {
     background: #8f0000;
     transform: scale(1.05);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    padding: 15px;
+    background: #3f3f3f;
+    color: #fff;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.descricao {
+    color: #333;
 }

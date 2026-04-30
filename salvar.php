@@ -44,15 +44,19 @@ fclose($fp);
 
 <h1>Resultado registrado!</h1>
 
-<p>O resultado do jogo foi salvo com sucesso no sistema da Gincana Esportiva SENAI.</p>
+<p class="descricao" >O resultado do jogo foi salvo com sucesso no sistema da Gincana Esportiva SENAI.</p>
 
-<p>A pontuação já foi atualizada e pode ser visualizada na página de classificação</p>
+<p class="descricao" >A pontuação já foi atualizada e pode ser visualizada na página de classificação</p>
 
 <div class="botoes" >
 <a href="cadastrar_jogo.php">Cadastrar outro jogo</a><br><br>
 <a href="classificacao.php">Ver classificação</a><br><br>
 <a href="index.php">Voltar para pagina inicial</a>
 </div>
+
+<footer>
+    <p>&copy; - 2026 - Site desenvolvido como projeto escolar.<p>
+</footer>
 
 </body>
 </html>
