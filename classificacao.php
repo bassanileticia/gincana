@@ -4,8 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Classificação</title>
+    <link rel="stylesheet" href="classificacao.css">
 </head>
 <body>
+
+<div class="logo" >
+    <img src="img/logo.Sesi.jpg" alt="">
+</div>
 
 <?php
 
@@ -75,8 +80,12 @@ if (file_exists($arquivo)) {
 </table>
 
 <br>
+
+<div class="botoes" >
 <a href="index.php">Voltar a pagina inicial</a><br>
 <a href="cadastrar_jogo.php">Cadastrar jogo</a>
+</div>
+
 
 </body>
 </html>
