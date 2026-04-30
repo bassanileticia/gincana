@@ -11,6 +11,7 @@ body {
     color: #333;
     padding: 20px;
     text-align: center;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -21,7 +22,7 @@ h1 {
 p {
     max-width: 600px;
     margin: 10px auto;
-    color: #555;
+    color: #fffdfd;
 }
 
 .ranking {
@@ -111,4 +112,19 @@ tr:hover {
 tr:nth-child(2) td {
     font-weight: bold;
     color: #c40000;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    padding: 15px;
+    background: #3f3f3f;
+    color: #fff;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.indica {
+    color: #333;
 }

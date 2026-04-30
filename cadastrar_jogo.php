@@ -69,6 +69,10 @@
 <p>Após salvar o resultado, você pode continuar cadastrando outros jogos ou acessar a classificação para acompanhar o resultado das turmas.</p>
 
 <a href="index.php">Voltar para a página inicial</a>
+
+<footer>
+    <p>&copy; - 2026 - Site desenvolvido como projeto escolar.<p>
+</footer>
     
 </body>
 </html>

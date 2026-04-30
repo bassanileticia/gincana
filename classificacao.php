@@ -48,7 +48,7 @@ if (file_exists($arquivo)) {
 
 <h1>Classificação</h1>
 
-<p>Aqui você pode acompanhar a pontuação das turmas na Gincana Esportiva SENAI. Cada vitória vale 1 ponto.</p>
+<p class="indica" >Aqui você pode acompanhar a pontuação das turmas na Gincana Esportiva SENAI. Cada vitória vale 1 ponto.</p>
 
 
 <table border="1">
@@ -86,6 +86,9 @@ if (file_exists($arquivo)) {
 <a href="cadastrar_jogo.php">Cadastrar jogo</a>
 </div>
 
+<footer>
+    <p>&copy; - 2026 - Site desenvolvido como projeto escolar.<p>
+</footer>
 
 </body>
 </html>
