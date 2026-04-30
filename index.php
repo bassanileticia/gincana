@@ -8,7 +8,10 @@
 </head>
 <body>
 
-<img src="img/logo_sesi.png" alt="">
+<div class="logo" >
+    <img src="img/logo_sesi.png" alt="">
+</div>
+
 
     <h1>Gincana esportiva SENAI</h1>
     
@@ -77,7 +80,7 @@
 <p>Utilize as opções abaixo para cadastrar resultados e acompanhar a classificação das turmas:</p>
 
 <div class="botoes" >
-<a href="cadastrar_jogo.php">Cadastrar jogo</a><br><br>
+<a href="cadastrar_jogo.php">Cadastrar jogo</a>
 <a href="classificacao.php">Ver Classificação</a>
 </div>
 
