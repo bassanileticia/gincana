@@ -4,14 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro de resultados</title>
+    <link rel="stylesheet" href="cadastro.css">
 </head>
 <body>
 
-<p> Nessa página, você deve registrar os resultados dos jogos realizados durante a <strong>Gincana Esportiva SENAI</strong>.</p>
+<div class="logo" >
+    <img src="img/logo.Sesi.jpg" alt="">
+</div>
 
-<p>Selecione corretamente as equipes participantes, a modalidade disputada e o vencedor da partida. Essas informações serão utilizadas para calcular a pontuação e gerar a classificação geral.</p>
+<p class="intro" > Nessa página, você deve registrar os resultados dos jogos realizados durante a <strong>Gincana Esportiva SENAI</strong>.</p>
 
-<p><strong>Atenção:</strong> não existe empate na gincana. Toda partida deve ter um vencedor, e cada vitória soma 1 ponto para a turma.</p>
+<p class="explicacao" >Selecione corretamente as equipes participantes, a modalidade disputada e o vencedor da partida. Essas informações serão utilizadas para calcular a pontuação e gerar a classificação geral.</p>
+
+<p class="alerta" ><strong>Atenção:</strong> não existe empate na gincana. Toda partida deve ter um vencedor, e cada vitória soma 1 ponto para a turma.</p>
 
 <h2>Dados do Jogo</h2>
 
