@@ -9,7 +9,7 @@
 <body>
 
 <div class="logo" >
-    <img src="img/logo.Sesi.jpg" alt="">
+    <img src="img/logooSesi.jpg" alt="">
 </div>
 
 <?php
