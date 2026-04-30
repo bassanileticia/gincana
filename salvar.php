@@ -4,8 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resultado salvo</title>
+    <link rel="stylesheet" href="salvar.css">
 </head>
 <body>
+
+<div class="logo" >
+    <img src="img/logo.Sesi.jpg" alt="">
+</div>
 
 <?php
 
@@ -39,14 +44,15 @@ fclose($fp);
 
 <h1>Resultado registrado!</h1>
 
-<p>O resultado do jogo foi salvo com sucesso no sistema da <strong>Gincana Esportiva SENAI</strong>.</p>
+<p>O resultado do jogo foi salvo com sucesso no sistema da Gincana Esportiva SENAI.</p>
 
 <p>A pontuação já foi atualizada e pode ser visualizada na página de classificação</p>
 
+<div class="botoes" >
 <a href="cadastrar_jogo.php">Cadastrar outro jogo</a><br><br>
 <a href="classificacao.php">Ver classificação</a><br><br>
 <a href="index.php">Voltar para pagina inicial</a>
-
+</div>
 
 </body>
 </html>
