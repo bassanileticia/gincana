@@ -12,7 +12,7 @@
     <img src="img/logo.Sesi.jpg" alt="">
 </div>
 
-<p class="intro" > Nessa página, você deve registrar os resultados dos jogos realizados durante a <strong>Gincana Esportiva SENAI</strong>.</p>
+<p class="intro" > Nessa página, você deve registrar os resultados dos jogos realizados durante a Gincana Esportiva SENAI.</p>
 
 <p class="explicacao" >Selecione corretamente as equipes participantes, a modalidade disputada e o vencedor da partida. Essas informações serão utilizadas para calcular a pontuação e gerar a classificação geral.</p>
 
